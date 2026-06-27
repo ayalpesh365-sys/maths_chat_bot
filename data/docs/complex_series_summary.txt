@@ -1,0 +1,25 @@
+Title: Complex Series and Euler Formula Summary
+
+Complex Taylor series extend Taylor series to complex variables.
+
+For complex z:
+
+e^z = 1 + z + z^2/2! + z^3/3! + ...
+
+If z = iθ:
+
+e^(iθ) = 1 + iθ + (iθ)^2/2! + (iθ)^3/3! + ...
+
+Powers of i:
+
+i^0 = 1
+i^1 = i
+i^2 = -1
+i^3 = -i
+i^4 = 1
+
+Separating real and imaginary parts gives Euler's formula:
+
+e^(iθ) = cos(θ) + i sin(θ)
+
+Euler's formula is used in waves, oscillations, Fourier analysis, quantum mechanics, electromagnetism, and signal processing.
