@@ -28,8 +28,7 @@ streamlit run app.py
 4. Set the main file path to `app.py`.
 5. In the app settings, add this secret:
 
-```toml
-OPENAI_API_KEY = "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"
+`
 ```
 
 6. Deploy the app.
