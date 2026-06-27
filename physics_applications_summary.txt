@@ -1,0 +1,30 @@
+Title: Physics Applications of Taylor Series and Complex Exponentials
+
+Taylor series applications in physics:
+
+1. Small-angle approximation:
+sin(θ) ≈ θ for small θ.
+This is used in pendulum motion.
+
+2. Approximation near equilibrium:
+Many physical systems are approximated near stable equilibrium points.
+
+3. Quantum mechanics:
+Perturbation theory uses series approximations.
+
+4. Relativity:
+When v is much smaller than c, relativistic expressions can be approximated using Taylor series.
+
+5. Optics:
+Small-angle approximations are used in paraxial optics.
+
+Complex exponential applications:
+
+1. Oscillations
+2. Waves
+3. Fourier analysis
+4. Quantum wavefunctions
+5. Electromagnetic waves
+
+Euler's formula allows sine and cosine waves to be written as complex exponentials.
+This makes differential equations easier to solve.

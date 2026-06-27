@@ -1,0 +1,19 @@
+Title: Taylor Series Summary
+
+A Taylor series represents a function as an infinite sum using derivatives at a point.
+
+Taylor series around x = a:
+
+f(x) = f(a) + f'(a)(x-a) + f''(a)(x-a)^2/2! + f'''(a)(x-a)^3/3! + ...
+
+Maclaurin series is the special case a = 0.
+
+Important Maclaurin series:
+
+e^x = 1 + x + x^2/2! + x^3/3! + ...
+
+sin(x) = x - x^3/3! + x^5/5! - x^7/7! + ...
+
+cos(x) = 1 - x^2/2! + x^4/4! - x^6/6! + ...
+
+Taylor series are used for approximation, local linearisation, physics near equilibrium, waves, oscillations, and perturbation methods.
